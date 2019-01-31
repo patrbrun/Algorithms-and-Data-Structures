@@ -1,0 +1,3 @@
+[submodule "home1"]
+	path = home1
+	url = https://patrbrun@bitbucket.org/patrbrun/home1.git
